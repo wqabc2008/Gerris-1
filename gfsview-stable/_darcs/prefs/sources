@@ -1,0 +1,5 @@
+repo:http://gerris.dalembert.upmc.fr/darcs/gfsview-stable
+thisrepo:/home/cfd7/GERRIS-INSTALL/gfsview-stable
+cache:/home/cfd7/.darcs/cache
+repo:http://patch-tag.com/r/popinet/gfsview-stable
+thisrepo:/var/www/darcs/gfsview-stable

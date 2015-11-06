@@ -1,0 +1,6 @@
+repo:http://gerris.dalembert.upmc.fr/darcs/gts-stable
+thisrepo:/home/cfd7/GERRIS-INSTALL/gts-stable
+cache:/home/cfd7/.darcs/cache
+repo:/home/popinet/local/src/gerris-tests/gts-mainline
+thisrepo:/var/www/darcs/gts-stable
+repo:popinet@patch-tag.com:/r/popinet/gts-devel
